@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## TODO: finish
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+[![Xotabu4's github stats](https://github-readme-stats.vercel.app/api?username=xotabu4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Xotabu4/xotabu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
